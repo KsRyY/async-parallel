@@ -33,7 +33,7 @@
     "husky": "3.1.0",
     "lint-staged": "10.0.0-beta.12",
     "nyc": "14.1.1",
-    "prettier": "1.19.1",
+    "prettier": "2.3.1",
     "xo": "0.25.3"
   },
   "dependencies": {
