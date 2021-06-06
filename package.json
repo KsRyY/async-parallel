@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ksryy/async-parallel#readme",
   "devDependencies": {
     "ava": "2.4.0",
-    "eslint": "6.7.2",
+    "eslint": "7.28.0",
     "eslint-config-prettier": "6.7.0",
     "eslint-config-rem": "4.0.0",
     "eslint-plugin-prettier": "3.1.2",
